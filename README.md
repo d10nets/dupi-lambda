@@ -10,7 +10,10 @@ Analyze your network traffic in real-time for deep visibility into actual traffi
 
 Explore network traffic at your sites easily and interactively from the comfort of your browser. Quickly switch protocols, fields, intervals and apply specific filter conditions in the web application for instant streaming results.
 
-![image of DUPI VIEW](https://www.d10nets.com/static/images/view-laptop-sm.png)
+![DUPI VIEW](https://raw.githubusercontent.com/d10nets/dupi-web/master/flask/app/static/images/view-laptop-sm.png?token=APLEA3RFXUGCTT6CAVOOPKS7EBZWY)
 
+#### Instructions
+
+tbd...
 
 More info at [www.d10nets.com](https://www.d10nets.com/).
