@@ -12,11 +12,9 @@ Explore network traffic at your sites easily and interactively from the comfort 
 
 ### Screenshots
 
-#### DUPI HOME
-![DUPI HOME](/screenshots/dupi-home.png)
-
-#### DUPI ALERT
-![DUPI ALERT](/screenshots/dupi-alert-flow.png)
+| DUPI HOME                                | DUPI ALERT                                      |
+|------------------------------------------|-------------------------------------------------| 
+| ![DUPI HOME](/screenshots/dupi-home.png) | ![DUPI ALERT](/screenshots/dupi-alert-flow.png) |
 
 More info at [www.d10nets.com](https://www.d10nets.com/).
 
