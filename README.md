@@ -4,7 +4,7 @@
 
 Monitor and analyze Amazon AWS Flow Logs from EC2 network interfaces, VPC subnets or entire VPCs on a dedicated AWS cloud server streaming network traffic statistics in real-time to your browser via DUPI Streaming AWS Flow Log Monitor (**DUPI** = **D**eep-**U**niversal-**P**rotocol-**I**nspection).
 
-An AWS lambda function exports all relevant flow data to a dedicated cloud server to enable observation of aggregate protocol statistics across multiple virtual sites to view network traffic in your business as a 'whole' or at individual sites.
+An AWS lambda function ([dupi-lambda.py](/dupi-lambda.py)) exports all relevant flow data to a dedicated cloud server to enable observation of aggregate protocol statistics across multiple virtual sites to view network traffic in your business as a 'whole' or at individual sites.
 
 Analyze your network traffic in real-time for deep visibility into actual traffic patterns. Define detailed alerting rules per specific protocol field on various metrics as request rates, bps, pps, lengths, counts and geo-location info.
 
@@ -16,7 +16,7 @@ Explore network traffic at your sites easily and interactively from the comfort 
 |------------------------------------------|-------------------------------------------------| 
 | ![DUPI HOME](/screenshots/dupi-home.png) | ![DUPI ALERT](/screenshots/dupi-alert-flow.png) |
 
-More info at [www.d10nets.com](https://www.d10nets.com/).
+Watch DUPI live at [dupi1.d10nets.com](https://www.d10nets.com/) and get more info at [www.d10nets.com](https://www.d10nets.com/).
 
 ---
 
@@ -61,7 +61,7 @@ git clone https://github.com/d10nets/dupi-lambda.git
      - Select **Enable Trigger** and click **Add**
      - Click **dupi-lambda** and scroll down to **Function Code**
      - In **Action** select **Upload a .zip file** and click **Upload**
-     - Provide cloned **[dupi-lambda.zip](/dupi-lambda.zip)** file for upload
+     - Provide cloned **[dupi-lambda.zip](/package/dupi-lambda.zip)** file for upload
  
    - **Set Environment Variables**
      - In **Environment Variables** click **Edit** and then click **Add Environment Variable** three times
