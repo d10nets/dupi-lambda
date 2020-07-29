@@ -1,6 +1,6 @@
 # dupi-lambda
 
-### DUPI Streaming AWS Flow Log Monitor (free)
+### DUPI Streaming AWS Flow Log Monitor
 
 Monitor and analyze Amazon AWS Flow Logs from EC2 network interfaces, VPC subnets or entire VPCs on a dedicated AWS cloud server streaming network traffic statistics in real-time to your browser via DUPI Streaming AWS Flow Log Monitor (**DUPI** = **D**eep-**U**niversal-**P**rotocol-**I**nspection).
 
@@ -11,11 +11,18 @@ Analyze your network traffic in real-time for deep visibility into actual traffi
 Explore network traffic at your sites easily and interactively from the comfort of your browser. Quickly switch protocols, fields, intervals and apply specific filter conditions in the web application for instant streaming results.
 
 ### Screenshots
-...  
+
+#### DUPI HOME
+![DUPI HOME](/screenshots/dupi-home.png)
+
+#### DUPI ALERT
+![DUPI ALERT](/screenshots/dupi-alert-flow.png)
+
 More info at [www.d10nets.com](https://www.d10nets.com/).
 
-### Instructions
+---
 
+### Instructions
 #### Clone repository
 ```
 git clone https://github.com/d10nets/dupi-lambda.git
