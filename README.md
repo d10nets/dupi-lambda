@@ -25,6 +25,7 @@ Watch DUPI live at [dupi1.d10nets.com](https://www.d10nets.com/). Get more info 
 ---
 
 ### Instructions
+Follow instructions below to export your AWS Flow Logs to a dedicated EC2 host running DUPI Streaming AWS Flow Log Monitor for observation of your network traffic statistics in real-time in your browser.
 #### Clone repository
 ```
 git clone https://github.com/d10nets/dupi-lambda.git
