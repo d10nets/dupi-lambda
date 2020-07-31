@@ -12,11 +12,15 @@ Explore network traffic at your sites easily and interactively from the comfort 
 
 ### Screenshots
 
-| DUPI HOME                                | DUPI ALERT                                      |
-|------------------------------------------|-------------------------------------------------| 
-| ![DUPI HOME](/screenshots/dupi-home.png) | ![DUPI ALERT](/screenshots/dupi-alert-flow.png) |
+| DUPI HOME                                        | DUPI ALERT                                       |
+|--------------------------------------------------|--------------------------------------------------| 
+| ![DUPI HOME](/screenshots/dupi-home.png)         | ![DUPI ALERT](/screenshots/dupi-alert-flow.png)  |
 
-Watch DUPI live at [dupi1.d10nets.com](https://www.d10nets.com/) and get more info at [www.d10nets.com](https://www.d10nets.com/).
+| DUPI VIEW                                        | DUPI GRAPH                                       |
+|--------------------------------------------------|--------------------------------------------------| 
+| ![DUPI VIEW](/screenshots/dupi-view-flow.png)    | ![DUPI GRAPH](/screenshots/dupi-graph-flow.png)  |
+
+Watch DUPI live at [dupi1.d10nets.com](https://www.d10nets.com/). Get more info at [www.d10nets.com](https://www.d10nets.com/) or email us at [info@d10nets.com](mailto:info@d10nets.com).
 
 ---
 
@@ -61,7 +65,7 @@ git clone https://github.com/d10nets/dupi-lambda.git
      - Select **Enable Trigger** and click **Add**
      - Click **dupi-lambda** and scroll down to **Function Code**
      - In **Action** select **Upload a .zip file** and click **Upload**
-     - Provide cloned **[dupi-lambda.zip](/package/dupi-lambda.zip)** file for upload
+     - Provide cloned **[dupi-lambda.zip](/package/dupi-lambda.zip)** file in **/package** directory for upload
  
    - **Set Environment Variables**
      - In **Environment Variables** click **Edit** and then click **Add Environment Variable** three times
