@@ -20,12 +20,12 @@ Explore network traffic at your sites easily and interactively from the comfort 
 |--------------------------------------------------|--------------------------------------------------| 
 | ![DUPI VIEW](/screenshots/dupi-view-flow.png)    | ![DUPI GRAPH](/screenshots/dupi-graph-flow.png)  |
 
-Watch DUPI live at [dupi1.d10nets.com](https://dupi1.d10nets.com/dupi/view/flow). Get more info at [www.d10nets.com](https://www.d10nets.com/) or email us at [info@d10nets.com](mailto:info@d10nets.com).
+Watch DUPI live at [dupi1.d10nets.com](https://dupi1.d10nets.com/). Get more info at [www.d10nets.com](https://www.d10nets.com/) or email us at [info@d10nets.com](mailto:info@d10nets.com).
 
 ---
 
 ### Instructions
-Follow instructions below to export your AWS Flow Logs to a dedicated EC2 host running DUPI Streaming AWS Flow Log Monitor for observation of your network traffic statistics in real-time in your browser.
+Follow instructions below (~20 min) to export your AWS Flow Logs to a dedicated EC2 host running DUPI Streaming AWS Flow Log Monitor for observation of your network traffic statistics in real-time in your browser.
 #### Clone repository
 ```
 git clone https://github.com/d10nets/dupi-lambda.git
@@ -78,4 +78,4 @@ git clone https://github.com/d10nets/dupi-lambda.git
 
 4. **Access DUPI Flow Log Monitor**
 
-   - Go to **[dupi1.d10nets.com](https://dupi1.d10nets.com/dupi/view/flow)** to access DUPI Streaming AWS Flow Log Monitor
+   - Go to **[dupi1.d10nets.com](https://dupi1.d10nets.com/)** to access DUPI Streaming AWS Flow Log Monitor
