@@ -1,4 +1,4 @@
-# dupi-lambda
+# dupi-lambda <sub><sup>(export AWS Flow Logs via Lambda function to UDP server)</sup></sub>
 
 ### DUPI Streaming AWS Flow Log Monitor
 
