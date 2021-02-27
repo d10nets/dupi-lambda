@@ -1,5 +1,7 @@
 # dupi-lambda <sub><sup>(export AWS Flow Logs via Lambda function to UDP server)</sup></sub>
 
+### >> Watch the DUPI live demo at [dupi1.d10nets.com](https://dupi1.d10nets.com/dupi/view)
+
 ### DUPI Streaming AWS Flow Log Monitor
 
 Monitor and analyze Amazon AWS Flow Logs from EC2 network interfaces, VPC subnets or entire VPCs on a dedicated AWS cloud server streaming network traffic statistics in real-time to your browser via DUPI Streaming AWS Flow Log Monitor (**DUPI** = **D**eep-**U**niversal-**P**rotocol-**I**nspection).
