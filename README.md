@@ -1,6 +1,6 @@
 # dupi-lambda <sub><sup>(export AWS Flow Logs via Lambda function to UDP server)</sup></sub>
 
-### >> Watch the DUPI live demo at [dupi1.d10nets.com](https://dupi1.d10nets.com/dupi/view)
+### >> Watch the DUPI live demo at [dupi1.d10nets.com](https://dupi1.d10nets.com/)
 
 ### DUPI Streaming AWS Flow Log Monitor
 
@@ -14,13 +14,25 @@ Explore network traffic at your sites easily and interactively from the comfort 
 
 ### Screenshots
 
-| DUPI HOME                                        | DUPI ALERT                                       |
-|--------------------------------------------------|--------------------------------------------------| 
-| ![DUPI HOME](/screenshots/dupi-home.png)         | ![DUPI ALERT](/screenshots/dupi-alert-flow.png)  |
+| DUPI REPORT                                      |
+|--------------------------------------------------| 
+| ![DUPI REPORT](/screenshots/dupi-report-flow.png)|
 
-| DUPI VIEW                                        | DUPI GRAPH                                       |
-|--------------------------------------------------|--------------------------------------------------| 
-| ![DUPI VIEW](/screenshots/dupi-view-flow.png)    | ![DUPI GRAPH](/screenshots/dupi-graph-flow.png)  |
+| DUPI VIEW                                        |
+|--------------------------------------------------| 
+| ![DUPI VIEW](/screenshots/dupi-view-flow.png)    |
+
+| DUPI ALERT                                       |
+|--------------------------------------------------| 
+| ![DUPI ALERT](/screenshots/dupi-alert-flow.png)  |
+
+| DUPI GRAPH                                       |
+|--------------------------------------------------| 
+| ![DUPI GRAPH](/screenshots/dupi-graph-flow.png)  |
+
+| DUPI HOME                                        |
+|--------------------------------------------------| 
+| ![DUPI HOME](/screenshots/dupi-home.png)         |
 
 Watch DUPI live at [dupi1.d10nets.com](https://dupi1.d10nets.com/). Get more info at [www.d10nets.com](https://www.d10nets.com/) or email us at [info@d10nets.com](mailto:info@d10nets.com).
 
