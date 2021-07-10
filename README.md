@@ -1,6 +1,6 @@
 # dupi-lambda <sub><sup>(export AWS Flow Logs via Lambda function to UDP server)</sup></sub>
 
-### >> Watch the DUPI live demo at [dupi1.d10nets.com](https://dupi1.d10nets.com/)
+#### >> Watch the DUPI live demo at [dupi1.d10nets.com](https://dupi1.d10nets.com/)<br> >> To monitor your own AWS flow logs please follow the instruction below (~20 min)
 
 ### DUPI Streaming AWS Flow Log Monitor
 
@@ -11,6 +11,19 @@ An AWS lambda function ([dupi-lambda.py](/dupi-lambda.py)) exports all relevant 
 Analyze your network traffic in real-time for deep visibility into actual traffic patterns. Define detailed alerting rules per specific protocol field on various metrics as request rates, bps, pps, lengths, counts and geo-location info.
 
 Explore network traffic at your sites easily and interactively from the comfort of your browser. Quickly switch protocols, fields, intervals and apply specific filter conditions in the web application for instant streaming results.
+
+### Features
+- **DUPI VIEW - Live Protocol Statistics**
+  - View continuous live updates of network traffic statistics based on AWS flow logs at your sites in real-time per Source IP, Destination IP, Destination Port, Protocol, TCP Flags and other fields.
+* **DUPI ALERT - Alerting Service**
+  - Define detailed alerting rules for real-time network traffic conditions at your sites per field and various metrics as Packets-per-Second, Bits-per-Second, Tracking Time, Unique Field Counts, Geo Data and much more.
+- **DUPI REPORT - Insights and Analysis**
+  - View charts of top historical network traffic patterns at your sites for various intervals on Top Source IPs, Top Destination IPs, Top Destination Ports, Top Countries, Rates, Tracking times and much more.
+* **DUPI GRAPH - Timeseries Graphs**
+  - Graph historical network traffic statistics at your sites for 10 minutes, 1 hour, 1 day, 1 week and 1 month intervals on various metrics as Packets-per-Second, Bits-per-Second, Unique Field Counts and much more.
+- **DUPI STORE - Historical Protocol Statistics**
+  - Store historical network traffic statistics at your sites for 10 minute, 1 hour, 1day and 1 week intervals at your sites per Source IP, Destination IP, Destination Port, Protocol, TCP Flags and other fields.
+
 
 ### Screenshots
 
