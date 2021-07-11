@@ -1,6 +1,6 @@
 # dupi-lambda <sub><sup>(export AWS Flow Logs via Lambda function to UDP server)</sup></sub>
 
-#### >> Watch the DUPI live demo at [dupi1.d10nets.com](https://dupi1.d10nets.com/)<br> >> To monitor your own AWS flow logs please follow the instruction below (~20 min)
+#### >> Watch the DUPI live demo at [dupi1.d10nets.com](https://dupi1.d10nets.com/)<br> >> To monitor your own AWS Flow Logs please follow the instruction below (~20 min)
 
 ### DUPI Streaming AWS Flow Log Monitor
 
@@ -24,7 +24,7 @@ Explore network traffic at your sites easily and interactively from the comfort 
 - **DUPI STORE - Historical Protocol Statistics**
   - Store historical network traffic statistics at your sites for 10 minute, 1 hour, 1day and 1 week intervals at your sites per Source IP, Destination IP, Destination Port, Protocol, TCP Flags and other fields.
 
-
+---
 ### Screenshots
 
 | DUPI REPORT                                      |
